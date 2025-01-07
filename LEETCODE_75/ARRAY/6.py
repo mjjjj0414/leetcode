@@ -22,7 +22,3 @@ class Solution:
 
         return "".join(s_list)
     
-
-solution = Solution()
-print(solution.reverseVowels("hello"))
-        
